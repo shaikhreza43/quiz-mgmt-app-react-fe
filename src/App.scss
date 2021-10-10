@@ -18,3 +18,10 @@ form.create-quiz-form {
     border-radius: 10px;
     padding: 20px;
 }
+
+.question-option{
+    display: flex;
+}
+.question-option span{
+    margin: 0px 20px;
+}
