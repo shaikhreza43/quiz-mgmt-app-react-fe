@@ -1,0 +1,20 @@
+label.required::after {
+    content: " *";
+    color: red;
+}
+form div {
+    margin: 10px auto;
+}
+
+form.create-quiz-form {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #e3e1e1;
+}
+
+.quiz-status{
+    border: 1px solid #eee;
+    border-radius: 10px;
+    padding: 20px;
+}
